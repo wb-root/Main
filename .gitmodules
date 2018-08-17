@@ -1,0 +1,3 @@
+[submodule "Sub"]
+	path = Sub
+	url = git@github.com:wb-root/Sub.git
